@@ -1,7 +1,7 @@
 # Jumia-Scraping
 
-# dddddddddd
-##Jumia Scraping
+
+## Jumia Scraping
 
 **what in Scraping notebook:**
 
